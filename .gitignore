@@ -1,0 +1,41 @@
+# 파이썬
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상환경
+venv/
+env/
+.venv/
+
+# 아나콘다
+*.conda
+conda-meta/
+
+# 환경변수 (API 키 등)
+.env
+
+# 모델 가중치 (용량 큼)
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# 주피터 노트북 체크포인트
+.ipynb_checkpoints/
+
+# 추론 출력
+outputs/
+
+# 대용량 데이터셋
+*.zip
+
+# 로그
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+*:Zone.Identifier

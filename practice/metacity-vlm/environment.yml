@@ -1,0 +1,17 @@
+name: metacity
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch>=2.1.0
+  - torchvision
+  - pip
+  - pip:
+      - transformers>=4.51.0
+      - accelerate>=0.30.0
+      - qwen-vl-utils
+      - Pillow
+      - streamlit
+      - ultralytics
