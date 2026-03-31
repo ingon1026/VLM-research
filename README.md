@@ -26,3 +26,4 @@ Streamlit 대시보드에서 실시간 모니터링 시뮬레이션을 제공합
 | `main` | — | 레포 기본 설정 |
 | `feature/imagesbase` | [research/imagesbase](https://github.com/ingon1026/VLM-research/tree/feature/imagesbase/research/imagesbase) | Qwen3-VL 이미지 VQA 실습 |
 | **`feature/metacity-vlm`** | **[practice/metacity-vlm](practice/metacity-vlm/)** | **YOLO+VLM 도시 관제 요약 시스템** |
+<img width="1885" height="824" alt="image" src="https://github.com/user-attachments/assets/f7b71a19-7ebc-4349-bef7-b3913d5c9066" />
